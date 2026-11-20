@@ -1,7 +1,4 @@
-var sse2 = function () {
-    var rebound = 20; //set it to 0 if rebound effect is not prefered
-    var slip, k;
-    return {
+v 20; //set it to 0 if rebound effect is not prefere
         buildMenu: function () {
             var m = document.getElementById('sses2');
             if (!m) return;
